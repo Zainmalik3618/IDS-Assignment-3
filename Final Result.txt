@@ -1,0 +1,15 @@
+KNN Accuracy:
+0.25
+Answer:The best k value is 7 because it gives the highest accuracy (0.25).
+
+
+Naive Bayes Accuracy:
+0.3866
+
+Answer: I Compare KNN and Naive Bayes accuracies. Gaussian Naive Bayes performed better than KNN because it has a higher accuracy (0.3866 > 0.25).
+
+Best Model:
+Naive Bayes
+
+Observation:
+Naive Bayes performed better than KNN.
